@@ -1,0 +1,21 @@
+available: true
+id: 2
+mainset:
+- names:
+  - name: '@newset-1'
+    probability: 1
+  - name: '@newset-0'
+    probability: 1
+name: eyumur4umru5mr5
+source: null
+subsets:
+- name: newset-0
+  parts:
+  - names:
+    - name: test 2
+      probability: 1
+- name: newset-1
+  parts:
+  - names:
+    - name: test 3
+      probability: 1
