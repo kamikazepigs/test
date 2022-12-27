@@ -9,11 +9,6 @@ mainset:
 name: eyumur4umru5mr5
 source: null
 subsets:
-- name: newset-0
-  parts:
-  - names:
-    - name: test 2
-      probability: 1
 - name: newset-1
   parts:
   - names:
